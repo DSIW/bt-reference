@@ -25,3 +25,11 @@ Documenting Bluetooth services and characteristics of the Unu Scooter Pro
 | TBD                                  | 9a59a001-6e67-5d0d-aab9-ad9126b66f91 | "v1.12.0"<br>(Probably more) | Scooter version. TBD |
 
 TBD = to be defined / verified
+
+## Open questions
+
+Can we get the following information via Bluetooth?
+* main battery cycle count
+* main battery level
+* kickstand state
+* action: trigger hibernation mode
